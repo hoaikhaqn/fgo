@@ -1,0 +1,17 @@
+$fontPath: "../fonts" !default;
+
+
+@font-face {
+    font-family: 'pete';
+    src: url($fontPath+"/pete/pete.ttf");
+}
+
+@font-face {
+    font-family: 'texturina';
+    src: url($fontPath+"/texturina/texturina-default.ttf");
+}
+
+@font-face {
+    font-family: 'syne-mono';
+    src: url($fontPath+"/syne-mono/SyneMono.ttf");
+}
